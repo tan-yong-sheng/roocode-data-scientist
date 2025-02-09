@@ -1,5 +1,7 @@
 # Telco Customer Churn Analysis
 
+> This data science project is auto-generated via Cline and Github Copilot to test the current ability of AI to handle large CSV data analysis, as shown in this blog: https://www.tanyongsheng.com/?p=10650. Also, this is just a prototype and not yet ready for production, as we’re currently testing automated data analysis using a simple CSV file over 30MB in size. However, it’s worth exploring since uploading large datasets to LLM models can often be challenging due to their context window limitations.
+
 ## Overview
 This project analyzes customer churn patterns in a telecommunications company using machine learning techniques. The analysis follows the SEMMA (Sample, Explore, Modify, Model, Assess) methodology and includes both supervised learning for churn prediction and unsupervised learning for customer segmentation.
 
